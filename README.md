@@ -1,4 +1,4 @@
-#   Semana 02 Taller de Programación 
+#   Semana 03 Taller de Programación 
 Este repositorio es sobre la tarea de la semana 03 del curso de taller de programación
 
 ## Requisitos previos
